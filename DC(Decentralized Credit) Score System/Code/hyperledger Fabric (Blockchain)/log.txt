@@ -1,0 +1,2 @@
+Installed chaincodes on peer:
+Package ID: fabcar_1:1c2ab670a37972e83619ee0ba6938e15ec959d24b91b54e68102769326188840, Label: fabcar_1
