@@ -1,5 +1,5 @@
 # FYP-Decentralized-Credit-Score-System
-			DC(Decentralized Credit) Score System
+			# Instructions
 First of download all Hypereldger Fabric binaries to setup your Blockchain Enviorment.
 run this commond to download 
 
